@@ -35,6 +35,10 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+
+
+[instagram]: https://www.instagram.com/frostine.00
+[linkedin]: https://www.linkedin.com/in/nilaksha-perera-229184227/
 <!--
 **Nilaksha00/Nilaksha00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
