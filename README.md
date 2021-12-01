@@ -9,7 +9,7 @@
 - 😄 Pronouns: "SHE" or "HER" 
 - ⚡ Fun fact: I love to play video games 🎮
 
-### Contact with me 📝
+## Contact with me 📝
 
 
 [<img align="left" alt=" nilaksha-perera | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
@@ -17,7 +17,7 @@
 
 
 
-### Languages and Tools 🛠 
+## Languages and Tools 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
