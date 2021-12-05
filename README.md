@@ -6,7 +6,6 @@
 - 👨‍💻 I’m currently working on developing web application with technologies like JS, React and NodeJS
 - 📚  I’m interested in learning more about MERN and mobile application development ✨
 - 💪🏼 Future Goals: Learn more technologies and trends
-- 😄 Pronouns: "SHE" or "HER" 
 - ⚡ Fun fact: I love to play video games 🎮
 
 ## Contact with me 📝
