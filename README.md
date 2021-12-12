@@ -3,7 +3,7 @@
 ## I'm a Software Engineering Student
 
 
-- 👨‍💻 I’m currently working on developing web application with technologies like JS, React and NodeJS
+- 👨‍💻 I’m currently working on developing web applications with technologies like JS, React and NodeJS
 - 📚  I’m interested in learning more about MERN and mobile application development ✨
 - 💪🏼 Future Goals: Learn more technologies and trends
 - ⚡ Fun fact: I love to play video games 🎮
