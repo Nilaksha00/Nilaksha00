@@ -11,7 +11,8 @@
 ## Contact with me 📝
 
 
-[<img align="left" alt=" nilaksha-perera | LinkedIn" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F508977195364482938%2F&psig=AOvVaw2DyE1jfRlDcFnVtWKdj_-v&ust=1654283598740000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOC0j-a8j_gCFQAAAAAdAAAAABAD" />][linkedin]
+[<img align="left" alt=" nilaksha-perera | LinkedIn" width="40px" src="![image](https://user-images.githubusercontent.com/86180339/171719757-5b67580c-0ca1-408d-8cc1-341635505301.png)
+" />][linkedin]
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
 <br/>
