@@ -11,10 +11,10 @@
 ## Contact with me 📝
 
 
-[<img align="left" alt=" nilaksha-perera | LinkedIn" width="2px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="frostine.00 | Instagram" width="2px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt=" nilaksha-perera | LinkedIn" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F508977195364482938%2F&psig=AOvVaw2DyE1jfRlDcFnVtWKdj_-v&ust=1654283598740000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOC0j-a8j_gCFQAAAAAdAAAAABAD" />][linkedin]
+[<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
-<br/><br/>
+<br/>
 
 ## Languages and Tools 🛠 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
