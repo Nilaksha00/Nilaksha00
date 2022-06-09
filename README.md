@@ -11,7 +11,7 @@
 ## Contact with me 📝
 
 
-<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="30" /></a>
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://www.computerhope.com/jargon/i/instagram.png" height="30" width="30" />][instagram]
 <a href="https://medium.com/@Nilaksha00/" target="blank"><img src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1" alt="nilaksha perera" height="30" width="30" style="margin-left: 30px" /></a>
 
