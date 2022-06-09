@@ -1,4 +1,4 @@
-<!-- # Hey there, I'm Nilaksha Perera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hey there, I'm Nilaksha Perera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ## I'm a Software Engineering Student
 
@@ -14,7 +14,7 @@
 [<img align="left" alt=" nilaksha-perera | LinkedIn" width="40px" src="https://user-images.githubusercontent.com/86180339/171719757-5b67580c-0ca1-408d-8cc1-341635505301.png
 " />][linkedin]
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
- -->
+
 <!-- <br/>
 
 ## Languages and Tools 🛠 
@@ -53,9 +53,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> -->
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
