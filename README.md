@@ -13,8 +13,7 @@
 
 <a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="40" /></a>
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />][instagram]
-
-<a href="https://medium.com/@Nilaksha00/" target="blank"><img align="center" src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1" alt="nilaksha perera" height="30" width="40" /></a>
+<a href="https://medium.com/@Nilaksha00/" target="blank"><img align="center" src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1" alt="nilaksha perera" height="40" width="40" /></a>
 
  <br/>
 
