@@ -9,11 +9,14 @@
 - ⚡ Fun fact: I love to play video games 🎮
 
 ## Contact with me 📝
+<a href="https://medium.com/@Nilaksha00/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nilaksha perera" /></a>
+<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nilaksha perera" /></a>
+<a href="https://www.instagram.com/frostine.00" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nilaksha perera" /></a>
 
-
-<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="30" /></a>
+<!-- <a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="30" /></a>
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://www.computerhope.com/jargon/i/instagram.png" height="30" width="30" />][instagram]
-<a href="https://medium.com/@Nilaksha00/" target="blank"><img src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1" alt="nilaksha perera" height="30" width="30" style="margin-left: 30px" /></a>
+<a href="https://medium.com/@Nilaksha00/" target="blank"><img src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1" alt="nilaksha perera" height="30" width="30" style="margin-left: 30px" /></a> -->
 
  <br/>
 
@@ -42,7 +45,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 
-[instagram]: https://www.instagram.com/frostine.00
 <!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
