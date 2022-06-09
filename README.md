@@ -12,7 +12,7 @@
 
 
 <a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="40" /></a>
-[<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />][instagram]
 
 
  <br/>
