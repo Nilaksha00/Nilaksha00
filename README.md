@@ -10,9 +10,8 @@
 
 ## Contact with me 📝
 <a href="https://medium.com/@Nilaksha00/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nilaksha perera" /></a>
-<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nilaksha perera" /></a>
-<a href="https://www.instagram.com/frostine.00" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nilaksha perera" /></a>
+<a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nilaksha perera" /></a>
+<a href="https://www.instagram.com/frostine.00" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nilaksha perera" /></a>
 
 <!-- <a href="https://www.linkedin.com/in/nilaksha-perera-229184227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaksha perera" height="30" width="30" /></a>
 [<img align="left" alt="frostine.00 | Instagram" width="40px" src="https://www.computerhope.com/jargon/i/instagram.png" height="30" width="30" />][instagram]
