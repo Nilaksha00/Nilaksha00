@@ -3,8 +3,8 @@
 ## I'm a Software Engineering Student
 
 
-- 👨‍💻 I’m currently working on developing web applications with technologies like JS, React, React Native and NodeJS
-- 📚  I’m interested in learning more about MERN and mobile application development ✨
+- 👨‍💻 I’m currently working on developing web applications with technologies like JS, MERN stack, React Native and .NET
+- 📚  I’m interested in learning more about Java and other JS frameworks ✨
 - 💪🏼 Future Goals: Learn more technologies and trends
 - ⚡ Fun fact: I love to play video games 🎮
 
